@@ -1,11 +1,11 @@
 - 🔭 I’m currently working on  [fastriver](https://fastriver.ru/)
-<!-- - 🌱 I’m currently learning  -->
 - 👯 I’m looking to collaborate on [google](https://www.google.com/)
-<!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about **React** or **JS**
 - 📫 How to reach me: [fastriver](https://t.me/get_user_name)
-<!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: I'm still a schoolboy
+<!-- - 🌱 I’m currently learning  -->
+<!-- - 🤔 I’m looking for help with ... -->
+<!-- - 😄 Pronouns: ... -->
 <!--
 **Guid21/Guid21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
