@@ -3,9 +3,9 @@
 - 💬 Ask me about **React** or **JS**
 - 📫 How to reach me: [fastriver](https://t.me/get_user_name)
 - ⚡ Fun fact: I'm still a schoolboy
-<!-- - 🌱 I’m currently learning  -->
-<!-- - 🤔 I’m looking for help with ... -->
-<!-- - 😄 Pronouns: ... -->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guid21&show_icons=true)
+
 <!--
 **Guid21/Guid21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
