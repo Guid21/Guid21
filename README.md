@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=Guid21)
+
 - 🔭 I’m currently working on  [fastriver](https://fastriver.ru/)
 - 👯 I’m looking to collaborate on [google](https://www.google.com/)
 - 💬 Ask me about **React** or **JS**
