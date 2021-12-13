@@ -1,6 +1,11 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guid21&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Guid21)](https://github.com/anuraghazra/github-readme-stats)
-
+- 🔭 I’m currently working on  [fastriver](https://fastriver.ru/)
+<!-- - 🌱 I’m currently learning  -->
+- 👯 I’m looking to collaborate on [google](https://www.google.com/)
+<!-- - 🤔 I’m looking for help with ... -->
+- 💬 Ask me about **React** or **JS**
+- 📫 How to reach me: [fastriver](https://t.me/get_user_name)
+<!-- - 😄 Pronouns: ... -->
+- ⚡ Fun fact: I'm still a schoolboy
 <!--
 **Guid21/Guid21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
