@@ -1,7 +1,3 @@
-# Todoist Stats
-
-<!-- TODO-IST:START -->
-<!-- TODO-IST:END -->
 
 <!--
 **Guid21/Guid21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
