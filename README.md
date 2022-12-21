@@ -22,7 +22,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-![guid21 GitHub Stats](https://server.dooboo.io/github-stats-advanced/guid21)
-![guid21 GitHub Trophies](https://server.dooboo.io/github-trophies/guid21)
